@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 
 env:
-  GITHUB_REPOSITORY: ghcr.io/bridgeless-project/electres
+  GITHUB_REPOSITORY: ghcr.io/bridgeless-project/electrs
 
 jobs:
   converge-github:
